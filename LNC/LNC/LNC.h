@@ -1,3 +1,6 @@
+//Justin
+//Added instructions and comments to understand the code
+
 #include <iostream>
 #include <string>
 #include <vector>
